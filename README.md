@@ -1,4 +1,7 @@
 # tree-sitter-make
+
+⚠️  Unmaintained, use https://github.com/tree-sitter-grammars/tree-sitter-make instead. ⚠️
+
 Tree-sitter-make is a Make parser intended to be used for syntax highlighting.
 
 ## Missing features
